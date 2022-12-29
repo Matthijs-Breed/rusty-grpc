@@ -1,0 +1,13 @@
+{
+    "require": {
+        "google/protobuf": "^3.21",
+        "grpc/grpc": "^1.42",
+        "ext-grpc": "^1.51"
+    },
+    "autoload": {
+        "psr-4": {
+            "PokerHands\\": "src/PokerHands/",
+            "GPBMetadata\\": "src/GPBMetadata/"
+        }
+    }
+}

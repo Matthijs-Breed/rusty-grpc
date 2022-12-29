@@ -1,4 +1,7 @@
 client
-phpclient/vendor
-phpclient/grpc
+PhpPokerClient/vendor
+PhpVotingClient/vendor
 server/target
+RustVotingServer/target
+RustPokerServer/target
+grpc
